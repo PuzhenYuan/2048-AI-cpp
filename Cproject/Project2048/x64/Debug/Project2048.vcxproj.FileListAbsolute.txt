@@ -1,0 +1,9 @@
+C:\Users\Y P Z\Desktop\Cproject\Project2048\x64\Debug\Project2048.exe
+C:\Users\Y P Z\Desktop\Cproject统一graph\Cproject\Project2048\x64\Debug\Project2048.exe
+C:\Users\Y P Z\Desktop\CprojectGUI再改\Cproject\Project2048\x64\Debug\Project2048.exe
+C:\Users\Y P Z\Desktop\CprojectGUI缺鼠标键盘\Cproject\Project2048\x64\Debug\Project2048.exe
+C:\Users\Y P Z\Desktop\CprojectGUI缺键盘\Cproject\Project2048\x64\Debug\Project2048.exe
+C:\Users\Y P Z\Desktop\CprojectGUI基本完成\Cproject\Project2048\x64\Debug\Project2048.exe
+C:\Users\Y P Z\Desktop\2048++准完成\Cproject\Project2048\x64\Debug\Project2048.exe
+C:\Users\Y P Z\Desktop\2048++项目\Cproject\Project2048\x64\Debug\Project2048.exe
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\Project2048\x64\Debug\Project2048.exe

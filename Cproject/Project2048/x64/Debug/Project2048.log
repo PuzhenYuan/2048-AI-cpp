@@ -1,0 +1,16 @@
+﻿  2048main.cpp
+D:\Visual Studio\IDE\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(114,10): warning C4101: “key”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(208,7): warning C4101: “key”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(323,10): warning C4101: “key”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(418,11): warning C4101: “s”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(417,10): warning C4101: “key”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(503,11): warning C4101: “s”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(502,10): warning C4101: “key”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(573,9): warning C4101: “s”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(573,6): warning C4101: “r”: 未引用的局部变量
+C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\2048main.cpp(571,7): warning C4101: “key”: 未引用的局部变量
+  gui.cpp
+D:\Visual Studio\IDE\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  Project2048.vcxproj -> C:\Users\Y P Z\Desktop\2048++项目 over\Cproject\Project2048\x64\Debug\Project2048.exe

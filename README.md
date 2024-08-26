@@ -8,6 +8,7 @@ Needs EasyX library to be installed for GUI interface.
 
 ## Quick Start
 ```
+git clone https://github.com/PuzhenYuan/2048-AI-cpp.git
 cd Cproject\Project2048\x64\Release
 Project2048.exe
 ```
